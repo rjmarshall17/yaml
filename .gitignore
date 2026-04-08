@@ -1,0 +1,23 @@
+# General
+*.zip
+*.tgz
+
+# Python specific
+*.pyc
+*.egg
+*.egg-info
+build
+
+# Ignore VI(M) specific files
+*.swp
+*.swo
+*~
+
+# Eclipse specific
+.project
+.pydevproject
+
+# PyCharm
+.idea/*
+
+*.token
